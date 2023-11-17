@@ -10,3 +10,5 @@ Curso de ciencia de datos
 - Proyecto 2
 
 ### Publicaciones
+- Medium
+- Blog Personal
